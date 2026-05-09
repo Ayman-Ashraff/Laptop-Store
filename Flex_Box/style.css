@@ -1,9 +1,0 @@
-.flexbox {
-  display: flex;
-  background-color: black;
-  height: 100vh;
-  flex-direction: row;
-}
-.flexbox h1 {
-  color: azure;
-}
